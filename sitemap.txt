@@ -1,0 +1,12 @@
+Admin
+--> Table admin
+--> Add / Edit admin
+
+Dashboard
+-> Row1
+--> Card1: Event's latest update
+--> Card2: Gallery's latest update
+--> Card3: Achievement's latest update
+-> Row2
+--> Card1: Structural page
+--> Card2: Latest files uploaded
